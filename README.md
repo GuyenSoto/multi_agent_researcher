@@ -1,4 +1,4 @@
-## 📰 Multi-Agent AI Researcher
+## 📰 Multi-Agent AI Researcher(inside HackerNews)
 This Streamlit app empowers you to research top stories and users on HackerNews using a team of AI assistants with GPT-4o. 
 HACKERNEWS RESEARCHER
 
